@@ -1,3 +1,7 @@
+My first solution to the FreeCodeCamp project below. This is the first project in the Data Analysis with Python path. I realize there is a lot of repetition in this code, but I decided to upload it anyway, as it is the way it first came to my head. Later on, I will upload a more efficient code using a function.
+
+-----------------
+
 ### Assignment
 
 Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. 
