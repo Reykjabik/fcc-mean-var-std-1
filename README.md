@@ -1,4 +1,4 @@
-My first solution to the FreeCodeCamp project below. This is the first project in the Data Analysis with Python path. I realize there is a lot of repetition in this code, but I decided to upload it anyway, as it is the way it first came to my head. Later on, I will upload a more efficient code using a function.
+My first solution to the FreeCodeCamp project below. This is the first project in the Data Analysis with Python path.
 
 -----------------
 
